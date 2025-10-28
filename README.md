@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a developer passionate about learning and buil
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/theo-nguyen-2604/)  
-  - 🌍 [Portfolio Website](https://Theo2604.github.io)
+  - 🌍 [Portfolio Website](https://theo2604.github.io/TheoNguyen/)
 
 ---
 
